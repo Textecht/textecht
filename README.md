@@ -1,38 +1,24 @@
-# Discord Bot Website Template (landing page only)
+# Discord Code Sharing Website
 
-Here there is only a landing page, not complete like a dashboard, or other pages.
+# Kurulum
+* İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
+* Daha sonra bir [MongoDB](http://mongodb.com) hesabı oluştur ve connection linki al.
+  * Eğer bunu yapmayı bilmiyorsan [buraya](https://medium.com/@thearkxd/node-js-projeleri-için-mongodb-atlas-connection-linki-alma-5d955bbe5ae6) tıklayarak medium.com üzerinde yazdığım yazıyı inceleyebilirsin.
+* Bu projeyi zip halinde indir.
+* Herhangi bir klasöre zipi çıkart.
+* Daha sonra src klasörünün içindeki configs klasörünün içine gir `settings.json` ve `config.json` dosyalarının içindeki bilgileri doldur.
+* Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
+* ```npm install``` yazarak tüm modülleri kur.
+* Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
 
-You can change every word in the html file (change the text and your bot name in index.html)
+# Görseller:
+<img src="https://cdn.discordapp.com/attachments/806816221471047721/807732507311079424/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/806816221471047721/807732535177379850/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/806816221471047721/807732591096234004/unknown.png">
 
-You can also use this landing page for other purposes, such as a personal portfolio and so on.
+# İletişim
+* [Discord Sunucum](https://discord.gg/UEPcFtytcc)
+* [Discord Profilim](https://discord.com/users/350976460313329665)
+* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
-[**PREVIEW**](#preview)
-
-# Installation
-just clone or download or fork the repo and open index.html
-
-```cli
-git clone https://github.com/JastinXyz/discord-bot-landing-page-web
-```
-
-Replace all required text in index.html
-
-# Built with
-- [Bulma](https://bulma.io) - the modern CSS framework that just works.
-- [JQUERY](https://jquery.com) - a fast, small, and feature-rich JavaScript library.
-- [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
-- [Tippy.js](https://atomiks.github.io/tippyjs/) - complete tooltip, popover, dropdown, and menu solution for the web, powered by [Popper](https://popper.js.org/).
-- [Fontawesome Icon](https://fontawesome.com) - icon library and toolkit.
-
-# Preview
-
-![img](/ss/screenshoot-full.png)
-
-# Live Demo
-
-https://jastinxyz.github.io/discord-bot-landing-page-web
-
-<hr/>
-<div align="center">
-Feel free to report bugs in the issue tab or open pull request.
-</div>
+### NOT: Sitede MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
